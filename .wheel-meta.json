@@ -1,0 +1,22 @@
+{
+  "wheel_id": 585,
+  "structure": "umbrella",
+  "slug": "kitchenrenovationgeelong-155",
+  "project": "kitchen-renovations-geelong-council-and-approvals-b163f3248799a",
+  "parent_t1_ref": "kitchenrenovationgeelong-010",
+  "node_role": "buffer",
+  "money_target": "kitchenrenovationgeelong.com.au",
+  "primary_kw": "kitchen renovations geelong council and approvals",
+  "intended_url": "https://sitesau.github.io/kitchenrenovationgeelong-155/",
+  "tier": "T2",
+  "writeback_nonce": "3daea87611e6dac4",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/kitchen-renovations-geelong-010/",
+      "anchor": "this overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
